@@ -1,6 +1,5 @@
 Projeto final
-title: Relatório de Uso e Cobertura do Solo
-subtitle: Análise Geoespacial do Município de Uruçuca (BA)
+title: Relatório de Uso e Cobertura do Solo: Análise Geoespacial do Município de Uruçuca (BA)
 author: Regina Guimaraes silva
 ---
 Resumo
