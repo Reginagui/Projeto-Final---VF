@@ -11,7 +11,6 @@ Este relatório apresenta os resultados da análise de uso e cobertura do solo p
 | **Responsável pela Criação** | Regina Guimarães Silva |
 | **Data da Criação/Análise** | Outubro de 2025 |
 | **Software Utilizado** | R (Linguagem de Programação) e pacotes: `readr`,  `dplyr`,  `tibble`, `tidyverse`, `lubridate`, `patchwork`, `terra`, `sf`, `ggplot2`. |
-| **Licença de Uso (do Mapa Gerado)** | \[Ex: CC BY-NC 4.0 (Creative Commons Atribuição-Não Comercial) ou Nenhuma Restrição\] |
 | **Contato** | rgsilva.ppgecb@uesc.br |
 
 Os dados de uso e cobertura do solo podem ser baixados no site do mapbiomas: https://brasil.mapbiomas.org/
